@@ -51,7 +51,7 @@ Built with **Python + PyQt5**, it’s perfect for automating repetitive tasks, d
 > Make sure you have Python 3.8+ installed.
 
 ```bash
-git clone https://github.com/your-username/screen-automator.git
+git clone https://github.com/Priyanshu-1477/screen-automator.git
 cd screen-automator
 pip install -r requirements.txt
 python3 main.py
