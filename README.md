@@ -19,7 +19,10 @@ Built with **Python + PyQt5**, it’s perfect for automating repetitive tasks, d
 
 ## 📸 Screenshots
 
-> *(Add screenshots later here)*
+![image](https://github.com/user-attachments/assets/8e1f7215-543f-46b6-b810-4b8cce3b0904)
+
+![image](https://github.com/user-attachments/assets/a1fca4d6-0714-4b11-a1c9-d129fc90eca5)
+
 
 ```
 📜 Script Queue:
