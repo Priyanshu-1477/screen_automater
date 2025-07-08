@@ -80,7 +80,7 @@ You can reuse, share, or edit them manually if needed.
 
 ## 🚧 Roadmap
 
-- [X] 🔄 Drag-and-drop reordering
+- [ ] 🔄 Drag-and-drop reordering
 - [ ] 📷 Record live clicks/keystrokes
 - [ ] 🌐 Export to `.exe` / `.AppImage`
 - [ ] 🎛️ Command-line mode: `screen-automator run script.json`
