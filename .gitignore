@@ -1,0 +1,18 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Unused or optional project folders
+test_scripts/
+logs/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
