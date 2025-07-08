@@ -1,6 +1,6 @@
 # 🎯 Screen Automater
 
-**Screen Automator** is a powerful desktop app that lets you automate mouse clicks, keyboard typing, and wait commands — all through a simple and intuitive GUI.  
+**Screen Automater** is a powerful desktop app that lets you automate mouse clicks, keyboard typing, and wait commands — all through a simple and intuitive GUI.  
 Built with **Python + PyQt5**, it’s perfect for automating repetitive tasks, demos, form filling, testing, and more.
 
 ---
